@@ -1,0 +1,67 @@
+#odin-recipes-head,#foodtopic{
+    color: #F7F7F2;
+    background-color: #899878;
+    font-size: 34px;
+    text-align: center;
+    font-family: 'Playfair Display', serif;
+}
+
+.menu {
+    color: #495867;
+    background-color: #E4E6C3;
+    font-size: 24px;
+    font-family: 'Times New Roman', 'Lucida Handwriting', verdana, sans-serif;
+}
+
+.Ingredients{
+    color: #F7F7F2;
+    background-color: #463F1A;
+    font-size: 20px;
+    font-family: 'Lucida Handwriting', 'Lucida', cursive;
+}
+
+.Directions{
+    color: #F7F7F2;
+    background-color: #463F1A;
+    font-size: 20px;
+    font-family: 'Lucida Handwriting', 'Lucida', cursive;
+}
+
+#ingredientsTopic{
+    color: #495867;
+    background-color: #E4E6C3;
+    font-size: 28px;
+    font-family: 'Comic Sans MS', 'Comic Sans', cursive;
+    text-align: center;
+}
+#directionsTopic{
+    color: #495867;
+    background-color: #E4E6C3;
+    font-size: 28px;
+    font-family: 'Bradley Hand', cursive;
+    text-align: center;
+
+}
+#foodnote{
+    color: #495867;
+    background-color: #E4E6C3;
+    font-size: 18px;
+    font-weight: bolder;
+    font-family: 'Segoe Script', cursive;
+}
+
+.imgContainor{
+    color: #F7F7F2;
+    text-align: center;
+    background-color:#E4E6C3;
+}
+.foodimage{
+    width: 300px;
+    height: auto;
+    border: 7px solid #F7F7F2;
+    border-radius: 15px;
+    box-shadow: 0 4px 10px #899878;
+    margin: 20px;
+    opacity: 1.0;
+    transition: transform 0.3s, opacity 0.3s;
+ }
